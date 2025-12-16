@@ -19,7 +19,7 @@ class HotelBookingSystem:
             'port': 5432,
             'database': 'SUBD',
             'user': 'postgres',
-            'password': '1234s'
+            'password': '?????'
         }
 
 
