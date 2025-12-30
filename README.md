@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-316192.svg)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **A modern hotel reservation management system with a graphical user interface**
 
